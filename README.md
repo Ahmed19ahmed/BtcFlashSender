@@ -22,5 +22,5 @@ Simulated BTC and USDT can be displayed and transferred across supported test wa
 
 - For licensing details, contact @CryptoFlashG on Telegram.
 
-# Telegram username: [@CryptoFlashG](https://t.me/CryptoFlashG
-)
+# Telegram username: (https://t.me/CryptoFlashG)
+
